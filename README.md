@@ -16,10 +16,10 @@ Link: https://www.sciencedirect.com/science/article/pii/S2352340922010356
 **Language used:** Python
 
 **Libraries used for data analytics:**
-
-  1. NumPy (https://numpy.org/doc/stable/index.html)
   
-  2. pandas (https://pandas.pydata.org)
+  1. pandas (https://pandas.pydata.org)
+  
+  2. nltk (https://www.nltk.org)
   
   3. scikit-learn (https://scikit-learn.org/stable)
 
