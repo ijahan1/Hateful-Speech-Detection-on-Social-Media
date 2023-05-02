@@ -17,14 +17,14 @@ Link: https://www.sciencedirect.com/science/article/pii/S2352340922010356
 
 **Libraries used for data analytics:**
 
-  NumPy (https://numpy.org/doc/stable/index.html)
+  1. NumPy (https://numpy.org/doc/stable/index.html)
   
-  pandas (https://pandas.pydata.org)
+  2. pandas (https://pandas.pydata.org)
   
-  scikit-learn (https://scikit-learn.org/stable)
+  3. scikit-learn (https://scikit-learn.org/stable)
 
 **Libraries used for visualization:**
 
-  Matplotlib (https://matplotlib.org)
+  1. Matplotlib (https://matplotlib.org)
   
-  Seaborn (https://seaborn.pydata.org)
+  2. Seaborn (https://seaborn.pydata.org)
