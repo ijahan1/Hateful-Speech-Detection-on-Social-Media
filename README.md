@@ -3,6 +3,8 @@ A Machine Learning &amp; NLP based hate speech detection &amp; classification fr
 
 **Codebase Information**
 
+**Environment:** Jupyter Notebook
+
 **Source code file:** HateFul_Speech_Detection.ipynb
 
 **Used Dataset:**
